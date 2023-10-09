@@ -1,5 +1,3 @@
-# Intern
-
 # Setup and Installation
 
 The troubleshot document of installation of CALM is under CALM/ folder.
